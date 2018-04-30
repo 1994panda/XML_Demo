@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT alians (alian+)>
+<!ELEMENT alian (name,country)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ATTLIST alian aid ID #REQUIRED>
+<!ATTLIST alian >

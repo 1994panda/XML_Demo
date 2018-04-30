@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE alians SYSTEM "Alian.dtd">
+<alians>
+  <alian aid ="a1">
+    <name>puja</name>
+    <country>india</country></alian>
+    <alian aid="a2">
+      <name>rani</name>
+      <country>africa</country>
+    </alian>
+  
+</alians>
